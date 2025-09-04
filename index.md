@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Paarth's First CS193 Homework
+- _I have a lot of friends in the class_
+- **No exams!**
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
